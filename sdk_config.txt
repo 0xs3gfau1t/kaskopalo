@@ -1,0 +1,10 @@
+{
+  "projectId": "kaskopalo-18043",
+  "appId": "1:895255020318:web:6e9df02e9da0303c9abf0f",
+  "storageBucket": "kaskopalo-18043.firebasestorage.app",
+  "apiKey": "AIzaSyA-FdBHqjG5cDqZC9EqOsmW9c-YKfD27tM",
+  "authDomain": "kaskopalo-18043.firebaseapp.com",
+  "messagingSenderId": "895255020318",
+  "projectNumber": "895255020318",
+  "version": "2"
+}
